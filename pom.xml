@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   
   <properties>
-  <sonar.organization>Mdidier1821_jenkins-sample</sonar.organization>
+  <sonar.organization>Mdidier1821</sonar.organization>
   <sonar.projectKey>Mdidier1821_jenkins-sample</sonar.projectKey>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
  </properties>
